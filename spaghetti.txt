@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I love spaghetti
 Spaghetti is great, it is a dish from Italy
+=======
+I love spaghetti
+I could eat it everyday 
+>>>>>>> master
